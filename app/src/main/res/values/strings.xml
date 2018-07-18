@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample MVP Retrofit RxJava</string>
+    <string name="username_github">username github</string>
+</resources>
